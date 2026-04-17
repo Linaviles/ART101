@@ -1,0 +1,45 @@
+ html{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ .opacity{
+    background-color: rgb(203, 233, 247, 0.8);
+    border-color: rgb(87, 136, 204);
+    border-style: outset;
+    border-width: 3px;
+ }
+ img{
+    width: 350px;
+    padding-left: 539px;
+ }
+
+ h1{
+    text-align: center;
+ }
+ h2{
+    text-align: center;
+ }
+ h3{
+    text-align: center;
+ }
+ .hello{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 50px;
+    margin: 80px;
+ }
+p {
+    text-align: center;
+}
+ .list2{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 50px;
+    margin: 80px;
+ }
