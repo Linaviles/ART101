@@ -1,0 +1,18 @@
+ .test-div {
+    background-color: #FFD9F6;
+    margin: 30px;
+    padding: 40px;
+ }
+
+ html{
+    background-color: #FFF8D9;
+ }
+
+ .my-flex{
+    display: flex;
+ }
+
+ img{
+    width: 400px;
+    padding:90px;
+ }
