@@ -1,0 +1,56 @@
+ html {
+     background-image: url('images/cat1.jpeg');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+
+ }
+
+ h1 {
+     text-align: center;
+     padding-top: 50px;
+     color: purple;
+ }
+
+ p {
+     text-align: center;
+     padding: 30px;
+     margin: 50px;
+     background-color: antiquewhite;
+     border-radius: 20cm;
+     border-color: blueviolet;
+     border-style: dotted;
+     border-width: 2px;
+     font-size: large;
+     font-family: sans-serif;
+     color: purple;
+ }
+
+ .right img {
+     width: 300px;
+     padding-left: 200px;
+     padding-right: 200px;
+     padding-top: 30px;
+ }
+
+ .left img {
+     width: 400px;
+     padding-top: 30px;
+     padding-left: 150px;
+     padding-right: 150px;
+ }
+
+ .flex {
+     max-width: 1000px;
+     display: flex;
+     gap: 30px;
+ }
+ .flex01{
+    background-color: rgba(194, 145, 227, 0.5);
+    border-color: blueviolet;
+    border-radius: 20cm;
+    border-width: 5px;
+    display: flex;
+    align-items: center;
+    padding-left: 500px;
+ }
